@@ -1,9 +1,13 @@
+### Problem
+
 PrefixSet
 
 Given a table A of N integers from 0 to N-1 calculate the smallest such index P, that that {A[0],...,A[N-1]} = {A[0],...,A[P]}.
 
 Task description
-A non-empty array A consisting of N integers is given. The first covering prefix of array A is the smallest integer P such that 0≤P<N and such that every value that occurs in array A also occurs in sequence A[0], A[1], ..., A[P].
+A non-empty array A consisting of N integers is given.
+ The first covering prefix of array A is the smallest integer P 
+ such that 0≤P<N and such that every value that occurs in array A also occurs in sequence A[0], A[1], ..., A[P].
 
 For example, the first covering prefix of the following 5−element array A:
 
